@@ -1,0 +1,63 @@
+{
+  "HEADER":{
+    "LANGUAGE":"Ngôn ngữ"
+  },
+  "LOGIN_REGISTER": {
+    "EMAIL_ADDRESS": "Địa chỉ email",
+    "PASSWORD": "Mật khẩu",
+    "CHECK_ME_OUT": "Kiểm tra cho tôi",
+    "SUBMIT": "Gửi",
+    "CREATE_YOUR_TASK_ACCOUNT": "Tạo tài khoản Công việc của bạn",
+    "SUCCESSFUL_ACCOUNT_LOGIN": "Đăng nhập tài khoản thành công",
+    "INCORRECT_ACCOUNT_OR_PASSWORD": "Tài khoản hoặc mật khẩu không chính xác",
+    "PLEASE_INFORM_YOUR_PASSWORD": "Vui lòng nhập mật khẩu của bạn",
+    "PLEASE_INFORM_YOUR_EMAIL": "Vui lòng nhập email của bạn",
+    "INCORRECT_EMAIL_FORMAT": "Định dạng email không chính xác",
+    "PASSWORD_MUST_BE_MORE_THAN_6_CHARACTERS": "Mật khẩu phải có nhiều hơn 6 ký tự",
+    "PLEASE_INFORM_YOUR_FULLNAME": "Vui lòng nhập cho fullName của bạn",
+    "SIGN_IN": "Đăng nhập",
+    "USER_ALREADY_EXISTS": "Người dùng đã tồn tại",
+    "SUCCESSFUL_ACCOUNT_REGISTRATION": "Đăng ký tài khoản thành công",
+    "ACCOUNT_REGISTRATION_FAILED": "Đăng ký tài khoản không thành công"
+  },
+  "DASHBOARD":{
+    "TASKS": "Nhiệm vụ",
+    "INCOMPLETE": "Chưa hoàn thành",
+    "COMPLETED": "Đã hoàn thành",
+    "ASSIGNED_TO_ME": "Đã giao cho tôi",
+    "VIEWS": "Xem",
+    "EMAIL_ADDRESS2": "EMAIL_ADDRESS2"
+  },
+  "TASK":{
+    "TASKS":"Nhiệm vụ",
+    "FILTER":"Bộ lọc",
+    "MY_TASKS": "Công việc của tôi",
+    "ASSIGNED_TO_ME": "Đã giao cho tôi",
+    "ASSIGNED":"Phân công",
+    "To do":"Chưa làm",
+    "In progress":"Đang làm",
+    "Done":"Đã hoàn thành",
+    "ALL":"Tất cả",
+    "STATUS":"Trạng thái",
+    "DUE":"Ngày đến hạng",
+    "EXPIRES":"Hết hạn",
+    "CREATE_TASK":"Tạo nhiệm vụ",
+    "TASK_TITLE":"Tiêu đề nhiệm vụ",
+    "EDIT_TASK":"Chỉnh sửa công việc",
+    "PLEASE_INFORM_YOUR_TASK_TITLE": "Vui lòng nhập cho Tiêu đề Nhiệm vụ của bạn",
+    "PLEASE_INFORM_YOUR_STATUS": "Vui lòng nhập Trạng thái của bạn",
+    "PLEASE_INFORM_YOUR_DUE": "Vui lòng nhập Đến hạn của bạn",
+    "PLEASE_INFORM_YOUR_ASSIGNED": "Vui lòng nhập cho Người được giao của bạn",
+    "CLOSE":"Đóng",
+    "SAVE":"Lưu",
+    "UPDATED_TASK_SUCCESSFULLY": "Đã cập nhật tác vụ thành công",
+    "CREATED_TASK_SUCCESSFULLY": "Đã tạo công việc thành công",
+    "TASK_CREATED_FAILED": "Không tạo được tác vụ",
+    "TASK_UPDATED_FAILED": "Không cập nhật được tác vụ",
+    "DELETED_TASK_SUCCESSFULLY": "Đã xóa công việc thành công",
+    "DELETED_TASK_FAILED": "Đã xóa không thành công",
+    "UPDATED_STATUS_SUCCESSFULLY": "Đã cập nhật trạng thái thành công",
+    "UPDATED_STATUS_FAILED": "Cập nhật trạng thái không thành công",
+    "NO_DATA":"Không có dữ liệu"
+  }
+}

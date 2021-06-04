@@ -1,0 +1,64 @@
+{
+  "HEADER":{
+    "LANGUAGE":"Language"
+  },
+  "LOGIN_REGISTER": {
+    "EMAIL_ADDRESS":"Email address",
+    "PASSWORD":"Password",
+    "CHECK_ME_OUT":"Check me out",
+    "SUBMIT":"Submit",
+    "CREATE_YOUR_TASK_ACCOUNT":"Create your Task account",
+    "SUCCESSFUL_ACCOUNT_LOGIN":"Successful account login",
+    "INCORRECT_ACCOUNT_OR_PASSWORD":"Incorrect account or password",
+    "PLEASE_INFORM_YOUR_PASSWORD":"Please inform your password",
+    "PLEASE_INFORM_YOUR_EMAIL":"Please inform your email",
+    "INCORRECT_EMAIL_FORMAT":"Incorrect email format",
+    "PASSWORD_MUST_BE_MORE_THAN_6_CHARACTERS":"Password must be more than 6 characters",
+    "PLEASE_INFORM_YOUR_FULLNAME":"Please inform your fullName",
+    "SIGN_IN":"Sign in",
+    "USER_ALREADY_EXISTS":"User already exists",
+    "SUCCESSFUL_ACCOUNT_REGISTRATION":"Successful account registration",
+    "ACCOUNT_REGISTRATION_FAILED":"Account registration failed"
+  },
+  "DASHBOARD":{
+    "TASKS":"Tasks",
+    "INCOMPLETE":"Incomplete",
+    "COMPLETED":"Completed",
+    "ASSIGNED_TO_ME":"Assigned to me",
+    "VIEWS":"Views"
+  },
+  "TASK":{
+    "TASKS":"Tasks",
+    "FILTER":"Filter",
+    "MY_TASKS":"My Tasks",
+    "ASSIGNED_TO_ME":"Assigned to me",
+    "ASSIGNED":"Assigned",
+    "To do":"To do",
+    "In progress":"In progress",
+    "Done":"Done",
+    "ALL":"All",
+    "STATUS":"Status",
+    "DUE":"Due",
+    "EXPIRES":"Expires",
+    "CREATE_TASK":"Create task",
+    "TASK_TITLE":"Task Title",
+    "EDIT_TASK":"Edit task",
+    "PLEASE_INFORM_YOUR_TASK_TITLE":"Please inform your Task Title",
+    "PLEASE_INFORM_YOUR_STATUS":"Please inform your Status",
+    "PLEASE_INFORM_YOUR_DUE":"Please inform your Due",
+    "PLEASE_INFORM_YOUR_ASSIGNED":"Please inform your Assigned",
+    "CLOSE":"Close",
+    "SAVE":"Save",
+    "UPDATED_TASK_SUCCESSFULLY":"Updated task successfully",
+    "CREATED_TASK_SUCCESSFULLY":"Created task successfully",
+    "TASK_CREATED_FAILED":"Task created failed",
+    "TASK_UPDATED_FAILED":"Task updated failed",
+    "DELETED_TASK_SUCCESSFULLY":"Deleted task successfully",
+    "DELETED_TASK_FAILED":"Deleted task failed",
+    "UPDATED_STATUS_SUCCESSFULLY":"Updated status successfully",
+    "UPDATED_STATUS_FAILED":"Updated status failed",
+    "NO_DATA":"No Data"
+  }
+}
+
+
